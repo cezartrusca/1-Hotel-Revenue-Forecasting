@@ -8,10 +8,12 @@
 - Include "what-if" scenario analysis for management decisions
 - Allow exporting results to an Excel dashboard
 
-Note: It is strongly recommended to create a Python virtual environment for the project.
 
 ## Prerequisites:
 Python 3.12+
 
+
 ## Instructions:
 pip install -r requirements.txt
+
+*Note: It is strongly recommended to create a Python virtual environment for the project.*
